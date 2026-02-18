@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#0d0d0f"/>
+  <text x="50%" y="36%" dominant-baseline="middle" text-anchor="middle" font-family="sans-serif" font-weight="700" font-size="14" fill="#C62828">MR.B</text>
+  <line x1="16" y1="44" x2="48" y2="44" stroke="#C62828" stroke-width="2" stroke-linecap="round"/>
+</svg>
